@@ -3,5 +3,5 @@
  por Gregory Pacheco
 
 
-[!alt text](https://nico-est.github.io/pontos_turisticos_udemy/diagrama.png)
+![alt text](https://nico-est.github.io/pontos_turisticos_udemy/diagrama.png)
 
